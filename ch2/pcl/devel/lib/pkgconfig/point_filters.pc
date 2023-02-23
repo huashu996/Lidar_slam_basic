@@ -1,0 +1,8 @@
+prefix=/home/cxl/workspace/lidar_slam_basic/ch2/pcl/devel
+
+Name: point_filters
+Description: Description of point_filters
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

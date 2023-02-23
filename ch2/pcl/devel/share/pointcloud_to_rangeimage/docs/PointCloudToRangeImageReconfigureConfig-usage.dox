@@ -1,0 +1,13 @@
+\subsubsection usage Usage
+\verbatim
+<node name="pointcloud_to_rangeimage" pkg="pointcloud_to_rangeimage" type="pointcloud_to_rangeimage">
+  <param name="ang_res_x" type="double" value="0.5" />
+  <param name="ang_res_y" type="double" value="0.7" />
+  <param name="max_ang_w" type="double" value="360.0" />
+  <param name="max_ang_h" type="double" value="360.0" />
+  <param name="min_range" type="double" value="0.5" />
+  <param name="max_range" type="double" value="50.0" />
+  <param name="laser_frame" type="bool" value="True" />
+</node>
+\endverbatim
+

@@ -1,0 +1,8 @@
+prefix=/home/cxl/workspace/lidar_slam_basic/ch2/pcl/install
+
+Name: point_segmantic
+Description: Description of point_segmantic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

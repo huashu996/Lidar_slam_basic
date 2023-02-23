@@ -1,0 +1,8 @@
+prefix=/home/cxl/workspace/lidar_slam_basic/ch2/pcl/devel
+
+Name: pcd
+Description: Description of pcd
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

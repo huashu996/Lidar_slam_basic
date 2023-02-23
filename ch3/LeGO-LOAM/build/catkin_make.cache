@@ -1,0 +1,2 @@
+LeGO-LOAM:cloud_msgs:pcd2pgm_package/pcd2pgm
+-DCATKIN_DEVEL_PREFIX=/home/cxl/slambook2/lidar_slam_basic/ch3/LeGO-LOAM/devel -DCMAKE_INSTALL_PREFIX=/home/cxl/slambook2/lidar_slam_basic/ch3/LeGO-LOAM/install -G Unix Makefiles

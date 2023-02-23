@@ -1,0 +1,12 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~ang_res_x" : \b [double] the angular difference (in radians) between the individual pixels in the image in the x-direction min: 0.05, default: 0.5, max: 10.0
+- \b "~ang_res_y" : \b [double] the angular difference (in radians) between the individual pixels in the image in the y-direction min: 0.05, default: 0.7, max: 10.0
+- \b "~max_ang_w" : \b [double] an angle (in radians) defining the horizontal bounds of the sensor min: 0.0, default: 360.0, max: 360.0
+- \b "~max_ang_h" : \b [double] an angle (in radians) defining the vertical bounds of the sensor min: 0.0, default: 360.0, max: 360.0
+- \b "~min_range" : \b [double] the sensor minimum range min: 0.0, default: 0.5, max: 2.0
+- \b "~max_range" : \b [double] the sensor maximum range min: 0.0, default: 50.0, max: 150.0
+- \b "~laser_frame" : \b [bool] the range image sensor frame (default laser) min: False, default: True, max: True
+

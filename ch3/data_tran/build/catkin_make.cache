@@ -1,0 +1,2 @@
+bin2rosbag:lidar2rosbag
+-DCATKIN_DEVEL_PREFIX=/home/cxl/slambook2/lidar_slam_basic/ch3/data_tran/devel -DCMAKE_INSTALL_PREFIX=/home/cxl/slambook2/lidar_slam_basic/ch3/data_tran/install -G Unix Makefiles

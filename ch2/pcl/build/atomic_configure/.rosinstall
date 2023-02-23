@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/cxl/workspace/lidar_slam_basic/ch2/pcl/devel/setup.sh

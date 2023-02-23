@@ -1,0 +1,2 @@
+icp:kd_tree:pcd:point_create:point_filters:point_segmantic:pointcloud_to_rangeimage
+-DCATKIN_DEVEL_PREFIX=/home/cxl/workspace/lidar_slam_basic/ch2/pcl/devel -DCMAKE_INSTALL_PREFIX=/home/cxl/workspace/lidar_slam_basic/ch2/pcl/install -G Unix Makefiles

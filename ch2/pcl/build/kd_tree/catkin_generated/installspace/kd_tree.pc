@@ -1,0 +1,8 @@
+prefix=/home/cxl/workspace/lidar_slam_basic/ch2/pcl/install
+
+Name: kd_tree
+Description: Description of kd_tree
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

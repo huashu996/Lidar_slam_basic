@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o   -L/home/cxl/slambook2/lidar_slam_basic/ch3/data_tran/build/gtest/googlemock/gtest/src  -Wl,-rpath,/home/cxl/slambook2/lidar_slam_basic/ch3/data_tran/build/gtest/googlemock/gtest/src -lpthread 
